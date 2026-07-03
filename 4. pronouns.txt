@@ -1,0 +1,77 @@
+PRONOUNS
+========
+
+A pronoun replaces a noun so we don't repeat it over and over.
+
+
+EXAMPLE STORY (WITHOUT PRONOUNS)
+-----------------------------------
+Sarah is a chef at a famous restaurant. Sarah works with Mr. Kim and
+Mr. Kim's daughter Lucy. Mr. Kim and Mr. Kim's daughter Lucy are
+experts in French cuisine. Sarah, Mr. Kim, and Lucy created a new
+dessert menu for the restaurant.
+
+Notice how many times we repeat "Sarah," "Mr. Kim," and "Lucy"?
+It sounds repetitive and clunky.
+
+
+THE SAME STORY WITH PRONOUNS
+--------------------------------
+Sarah is a chef at a famous restaurant. She works with Mr. Kim and
+his daughter Lucy. He and his daughter Lucy are experts in French
+cuisine. They created a new dessert menu for the restaurant.
+
+Much smoother! Pronouns save us from repeating the same names
+again and again.
+
+
+PERSONAL PRONOUNS
+--------------------
+Personal pronouns stand in for a specific person (or people).
+
+  - I cook dinner every night.
+  - You are a great singer.
+  - They are from Brazil.
+  - She teaches math.
+  - We sent him a letter.
+
+The word "it" stands in for a thing or object (not a person):
+
+  - I ate it.
+  - It is heavy.
+  - They painted it blue.
+
+
+PERSONAL PRONOUN CHART
+--------------------------
+                        1st Person   2nd Person   3rd Person
+                                                   (Male) (Female) (Thing)
+Singular - Subject         I            you         he     she     it
+Singular - Object          me           you         him    her     it
+Singular - Reflexive       myself       yourself    himself herself itself
+
+Plural - Subject           we           you         they
+Plural - Object            us           you         them
+Plural - Reflexive         ourselves    yourselves  themselves
+
+
+EASY WAY TO REMEMBER: SUBJECT VS. OBJECT
+--------------------------------------------
+  Subject pronoun = does the action    -> "She called him."
+  Object pronoun  = receives the action -> "She called him." (him = object)
+
+Trick: If the pronoun comes BEFORE the verb, it's a subject.
+If it comes AFTER the verb (or after a preposition like "to," "with,"
+"for"), it's usually an object.
+
+  - He gave the book to her.      (He = subject, her = object)
+  - We invited them to the party. (We = subject, them = object)
+
+
+REFLEXIVE PRONOUNS - "SELF" WORDS
+--------------------------------------
+Use these when the subject and object are the SAME PERSON:
+
+  - I hurt myself.
+  - She made the cake herself.
+  - They cleaned the house themselves.
