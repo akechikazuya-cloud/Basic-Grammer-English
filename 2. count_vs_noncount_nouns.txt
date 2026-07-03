@@ -1,0 +1,80 @@
+COUNT NOUNS VS. NON-COUNT NOUNS
+================================
+
+COUNT NOUNS
+-----------
+These are things you can count one by one.
+
+Examples:
+apple, laptop, backpack, key, lamp, mug, phone, jacket, shoe, ring,
+tree, guitar, umbrella, notebook, plate, bicycle
+
+Add "-s" to make them plural:
+apples, laptops, backpacks, keys, lamps, mugs, phones, jackets, shoes,
+rings, trees, guitars, umbrellas, notebooks, plates, bicycles
+
+They pair naturally with words like:
+a few, few, many, some, every, each, these, the number of
+
+  - a few apples
+  - many laptops
+  - some keys
+  - every lamp
+  - each mug
+  - these phones
+  - the number of jackets
+
+They take articles (a / an / the):
+  - a phone
+  - an umbrella
+  - the bicycle
+
+They never pair with "much":
+  X much laptops
+  ✓ many laptops
+
+
+NON-COUNT NOUNS
+---------------
+These describe things treated as a whole or a category — you don't
+count them individually.
+
+Examples:
+coffee, sand, gold, smoke, French, Japanese, homework, furniture,
+juice, butter, salt, corn, honey, tennis, weather
+
+They usually don't have a plural form:
+  X coffees (as a general concept)
+  X furnitures
+
+They can appear with or without an article, depending on the sentence:
+  - Coffee is bitter.
+  - The weather is lovely today.
+  - I drink juice.
+  - He plays tennis.
+  - She loves French.
+  - The sand is hot.
+
+They pair with words like:
+some, any, enough, this, that, much
+
+  - We bought some sand and gold.
+  - I hope to have enough coffee today.
+  - This honey is delicious.
+  - He doesn't do much homework.
+  - Do you have any furniture?
+  - That butter smells fresh.
+
+They never pair with:
+these, those, every, each, either, neither
+
+  X these homework
+  ✓ this homework
+
+
+QUICK MEMORY TRICK FOR LEARNERS
+--------------------------------
+Ask yourself: "Can I put a number in front of it?"
+
+  - "Two apples" -> YES -> count noun
+  - "Two coffees" -> NO (unless you mean two cups/servings) -> non-count noun
