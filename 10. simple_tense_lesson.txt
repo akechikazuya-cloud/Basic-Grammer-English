@@ -1,0 +1,137 @@
+WHAT IS VERB TENSE?
+-----------------------
+Verb tense tells us WHEN something happens: in the present, the past, 
+or the future. Think of tense as a timestamp attached to every action.
+
+There are three main time zones — present, past, and future — and 
+each one has four "modes": simple, progressive, perfect, and perfect 
+progressive. Today we focus on the SIMPLE tense, the most basic and 
+commonly used form.
+
+           PRESENT           PAST              FUTURE
+SIMPLE     write             wrote             will write
+
+
+THE BIG PICTURE: THREE TIME ZONES
+----------------------------------------
+Picture a timeline with three zones:
+
+  PAST  <-----------  NOW  ----------->  FUTURE
+  (already happened)  (happening now / 
+                        general truth)    (hasn't happened yet)
+
+Simple tense is the most direct way to talk about each zone — no 
+extra decoration, just the plain fact of an action.
+
+
+RULE 1: SIMPLE PRESENT = THE ORIGINAL VERB FORM
+------------------------------------------------------
+The simple present uses the verb almost exactly as it appears in the 
+dictionary (remember to add "s" for he/she/it).
+
+  I write a letter every Sunday.
+  She writes a letter every Sunday.
+  We drink tea in the morning.
+  He drinks tea in the morning.
+
+Use simple present for habits, routines, and general facts — things 
+that are true regularly, not just right now.
+
+
+RULE 2: SIMPLE PAST HAS A FEW PATTERNS
+-----------------------------------------
+The simple past shows something that already finished. Many verbs 
+simply add "-ed," but many common verbs change completely and must be 
+memorized. These are called IRREGULAR VERBS.
+
+  Regular pattern (add -ed):
+    walk --> walked
+    play --> played
+    clean --> cleaned
+
+  Irregular pattern (verb changes shape):
+    write --> wrote
+    drink --> drank
+    go --> went
+    buy --> bought
+
+Memory trick: Regular verbs "follow the rules," but irregular verbs 
+are like rebellious students who do their own thing — you just have 
+to learn their names.
+
+
+RULE 3: SIMPLE FUTURE = WILL + BASE VERB
+-------------------------------------------
+The simple future adds the helper word "will" (or sometimes "shall") 
+in front of the plain, unchanged verb.
+
+  I will write a letter tomorrow.
+  She will write a letter next week.
+  We will drink coffee after the meeting.
+
+Memory trick: "Will" is like a promise flag — it announces that 
+something is going to happen later.
+
+
+SIX VERBS IN ALL THREE TENSES
+------------------------------------
+Let's look at how a variety of verbs shift across present, past, and 
+future.
+
+WRITE
+  I write a letter every weekend.        (present)
+  I wrote a letter last weekend.         (past)
+  I will write a letter next weekend.    (future)
+
+DRINK
+  I drink coffee every morning.
+  I drank coffee an hour ago.
+  I will drink coffee in a few minutes.
+
+GO
+  I go to the gym twice a week.
+  I went to the gym yesterday.
+  I will go to the gym tomorrow.
+
+BUY
+  I buy groceries every Friday.
+  I bought groceries this morning.
+  I will buy groceries this weekend.
+
+UNDERSTAND
+  I understand the lesson.
+  I understood the lesson the day before yesterday.
+  I will understand the lesson by next class.
+
+STUDY
+  I study Spanish.
+  I studied Spanish for the last two years.
+  I will study Spanish again next semester.
+
+CLEAN
+  I clean my apartment every weekend.
+  I cleaned the kitchen already.
+  I will clean my desk tomorrow morning.
+
+
+QUICK REFERENCE CHART
+------------------------------------------------------------
+ TENSE     | FORM               | EXAMPLE
+------------------------------------------------------------
+ Present   | base verb (+s)     | I clean my room.
+ Past      | verb + ed / change | I cleaned my room.
+ Future    | will + base verb   | I will clean my room.
+------------------------------------------------------------
+
+
+PRACTICE TIP FOR LEARNERS
+-----------------------------
+Pick one everyday action and say it in all three tenses, like a 
+mini time-travel exercise:
+
+  I cook dinner every night.       (present – a routine)
+  I cooked dinner last night.      (past – already done)
+  I will cook dinner tonight.      (future – not done yet)
+
+Try this with three of your own daily actions to build the habit of 
+switching tenses naturally.
