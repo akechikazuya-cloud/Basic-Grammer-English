@@ -1,0 +1,122 @@
+WHAT IS VOICE IN A SENTENCE?
+--------------------------------
+Every sentence with a verb has a "voice" — either ACTIVE or PASSIVE. 
+Voice tells us the relationship between the subject and the action.
+
+
+ACTIVE VOICE: THE SUBJECT IS THE "DOER"
+---------------------------------------------
+In active voice, the subject performs the action directly. It's the 
+simplest, most direct way to build a sentence — like a clear arrow 
+pointing from the doer to the action.
+
+  The chef prepared the meal.
+  The teacher graded the essays.
+  My neighbor planted a garden.
+  The committee approved the proposal.
+
+In each sentence, the subject (chef, teacher, neighbor, committee) is 
+clearly the one DOING the action.
+
+
+PASSIVE VOICE: THE SUBJECT RECEIVES THE ACTION
+-----------------------------------------------------
+In passive voice, the subject is not the doer — instead, the subject 
+RECEIVES the action. The doer might be mentioned with "by," or might 
+be left out completely.
+
+  The meal was prepared. (by the chef — not mentioned)
+  The essays were graded. (by the teacher — not mentioned)
+  The garden was planted. (by my neighbor — not mentioned)
+  The proposal was approved by the committee. (doer included)
+
+Memory trick: In active voice, the subject "throws the ball." In 
+passive voice, the subject "catches the ball" — the action happens 
+TO it, not FROM it.
+
+
+WHEN DO WE USE PASSIVE VOICE?
+-----------------------------------
+Passive voice is useful when the ACTION itself matters more than who 
+did it — because the doer is unknown, unimportant, or obvious from 
+context.
+
+  The bridge is closed. 
+  (We don't know or don't need to know who closed it.)
+
+  My phone was stolen.
+  (The focus is on the phone, not on finding the thief right now.)
+
+  Dinner is served.
+  (Nobody needs to know exactly who cooked it — the focus is dinner 
+  being ready.)
+
+Passive voice can also sound more polite or less accusatory, since it 
+avoids pointing a direct finger at someone.
+
+  Compare:
+    "You made a mistake in the report." (active — sounds blunt)
+    "A mistake was made in the report." (passive — softer tone)
+
+
+MORE PASSIVE VOICE EXAMPLES
+----------------------------------
+  This app was designed in 2015.
+  The telephone was invented over a century ago.
+  I was informed that the flight was delayed.
+  Your feedback is valued.
+  He was awarded first prize.
+  It was reported that the store would close early.
+  It is suggested that the meeting be rescheduled.
+
+
+HOW TO CHANGE ACTIVE VOICE INTO PASSIVE VOICE
+-----------------------------------------------------
+Follow these three simple steps:
+
+  STEP 1: The OBJECT of the active sentence becomes the new SUBJECT.
+  STEP 2: The verb changes to "be" verb + past participle.
+  STEP 3: The original subject either follows "by" or is dropped 
+  entirely.
+
+Example 1:
+  ACTIVE:   Maria baked a cake.
+  PASSIVE:  A cake was baked by Maria.
+
+Example 2:
+  ACTIVE:   The city built a new library.
+  PASSIVE:  A new library was built by the city.
+
+Example 3:
+  ACTIVE:   I suggest that you revise your essay.
+  PASSIVE:  It is suggested that you revise your essay.
+
+Memory trick: Picture flipping the sentence like a pancake — what was 
+the object (the thing being acted upon) flips up to become the new 
+subject, and the "doer" slides to the end (or disappears entirely).
+
+
+QUICK REFERENCE CHART
+------------------------------------------------------------
+ VOICE      | STRUCTURE                        | EXAMPLE
+------------------------------------------------------------
+ Active     | Subject + verb + object          | Maria baked a cake.
+ Passive    | Object + be verb + past          | A cake was baked 
+            | participle (+ by + subject)      | by Maria.
+------------------------------------------------------------
+
+
+PRACTICE TIP FOR LEARNERS
+-----------------------------
+Take an active sentence about your own life and try flipping it into 
+passive voice using the three steps above:
+
+  ACTIVE:  I cleaned the kitchen.
+  PASSIVE: The kitchen was cleaned (by me).
+
+  ACTIVE:  My boss praised my work.
+  PASSIVE: My work was praised (by my boss).
+
+Ask yourself: "Does this sentence sound better focusing on the doer, 
+or on the action/result?" That will help you decide which voice fits 
+best.
